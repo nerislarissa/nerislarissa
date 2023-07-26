@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @nerislarissa.
+- 👀 I'm interested in programming applied to geosciences.
+- 🌱 I'm currently learning SQL, Python, GEE, and R.
+- 💞️ I'm looking to collaborate with spatial databases and SQL.
